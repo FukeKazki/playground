@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "start": "deno run -A index.tsx"
+  },
+  "imports": {
+    "react": "npm:react",
+    "ink": "npm:ink"
+  }
+}
